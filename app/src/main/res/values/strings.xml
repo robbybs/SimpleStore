@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Simple Store</string>
+    <string name="text_category">Category</string>
+    <string name="text_logout">Logout</string>
+    <string name="text_username">Username</string>
+    <string name="text_login">Login</string>
+    <string name="text_password">Password</string>
+    <string name="text_subtitle_format">$%1s | %2s</string>
+    <string name="text_add_to_cart">Add to cart</string>
+    <string name="text_error_fetch_data">Error fetch data</string>
+    <string name="text_retry">Retry</string>
+    <string name="text_fullname">Fullname</string>
+    <string name="text_email">Email</string>
+    <string name="register">Register</string>
+    <string name="text_invalid_email">Invalid email!</string>
+    <string name="don_t_have_account_register_here">Don\'t have account? Register Here</string>
+    <string name="text_success_register">Success Register</string>
+    <string name="text_delete">Delete</string>
+    <string name="text_checkout">Checkout</string>
+    <string name="text_list_cart">List Cart</string>
+    <string name="text_success_deleted_item">Success Deleted Item</string>
+    <string name="text_success_add_to_cart">Success add to cart</string>
+    <string name="text_failed_add_to_cart">Failed add to cart</string>
+    <string name="text_cart_empty">Cart empty</string>
+</resources>
